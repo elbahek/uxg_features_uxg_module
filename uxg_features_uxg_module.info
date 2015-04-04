@@ -1,0 +1,9 @@
+name = UXG Features - UXG Module
+core = 7.x
+package = UXG Features
+version = 7.x-1.0
+project = uxg_features_uxg_module
+dependencies[] = uxg
+dependencies[] = uxg_features_views_module
+features[features_api][] = api:2
+no autodetect = 1
